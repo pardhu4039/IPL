@@ -17,7 +17,7 @@ Model Building
 Model Evaluation
 
 
-#### EDA and Model Objectives:
+#### EDA:
 
 Does bowling combinations lead to get more wickets in a match?
 
@@ -27,4 +27,9 @@ Where do all of the outs happen? Is it at the start of an over, the middle, or t
 
 How did the Batsmen and the Bowlers perform within a match,within a season and in their overall careers.
 
-Given a Batsmen what are the total runs that a Batsmen can score in an over of a match.        
+#### Model Objective:
+Given a Batsmen what are the total runs that a Batsmen can score in an over of a match against a Bowler.
+
+Given a Batsmen and an over in a match ( for example: the batsmen faces a bowler_type of fast) would the predicting outcome or the number of runs a batsmen can score if he had faced medium or spin bowlers is changed and if the number of runs change then how would it have effected the outcome of the match.
+
+
