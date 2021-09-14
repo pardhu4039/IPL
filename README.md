@@ -1,6 +1,6 @@
 # Internship at PrometheusAI IPL Data
 
-In this project, I worked on the IPL Dataset obtained form Kaggle (https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020) and Scraped bowlers data from (http://www.howstat.com).
+In this project, I worked on the IPL Dataset obtained form Kaggle (https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020) and Scraped players data from (http://www.howstat.com).
 
 The main objective of the project is to predict the number of runs a batsmen can score in an over. 
 
