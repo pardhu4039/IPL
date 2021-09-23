@@ -5,6 +5,7 @@ In this project, I worked on the IPL Dataset obtained form Kaggle (https://www.k
 The main objective of the project is to predict the number of runs a batsmen can score in an over. 
 
 #### Project Tasks:
+Data Scraping
 
 Data Cleaning
 
